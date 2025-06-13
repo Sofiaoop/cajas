@@ -40,9 +40,9 @@ float: right;
 </head>
 <body>
 <h1>Las famosas cajas flotantes</h1>
-<div id="cajaNegra"> <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg" width="150"> Caja NEGRA </div>	  
+<div id="cajaNegra"> <img src= "https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="150"> Caja NEGRA </div>	  
 <div id="cajaAzul"> <img src="https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> Caja AZUL </div>
-<div id="cajaVerde"> <img src="https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg" width="200"> Caja VERDE</div>
+<div id="cajaVerde"> <img src= "https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> Caja VERDE</div>
 <div id="cajaRoja"> <img src="https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> Caja ROJA </div>
 </body>
 </html>

@@ -33,8 +33,8 @@ background-color: red;
 float: right;
 }
 img{
-width:200;
-    height: 200px;
+width:150;
+    height: 150px;
 border-radius: 10px;
 }
 </style>

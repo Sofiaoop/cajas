@@ -41,9 +41,9 @@ height: 200px;
 </head>
 <body>
 <h1>Las famosas cajas flotantes</h1>
-<div id="cajaNegra"> <img src= "https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg"> Caja NEGRA </div>	  
-<div id="cajaAzul"> <img src= "https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg"> Caja AZUL </div>
-<div id="cajaVerde"> <img src= "https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg"> Caja VERDE</div>
-<div id="cajaRoja"> <img src= "https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg"> Caja ROJA </div>
+<div id="cajaNegra"> <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg"> Caja NEGRA </div>	  
+<div id="cajaAzul"> <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg"> Caja AZUL </div>
+<div id="cajaVerde"> <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg"> Caja VERDE</div>
+<div id="cajaRoja"> <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg"> Caja ROJA </div>
 </body>
 </html>

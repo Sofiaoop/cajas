@@ -1,96 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <title>PRÁCTICA</title>
-
-    <meta charset="utf-8">
-
-    <style> 
+<style> 
 body{
-
-    color:white;
-
+color:white;
 }
-
 h1{
-
     color:black;
-
 }
-
 div {
-
-    width: 300px;
-
-    height: 200px;
-
-    padding: 30px;
-
-    text-align: center;
-
-    border-radius: 40px;
-
+width: 300px;
+height: 200px;
+padding: 30px;
+text-align: center;
+border-radius: 40px;
 }
-
-
 
 #cajaNegra {
-
-    background-color: black;
-
-    float: left;
-
+background-color:black;
+float:left;
 }
-
-
 
 #cajaAzul {
-
-    background-color: blue;
-
-    float: right;
-
+background-color:blue;
+float:right;
 }
-
-
 
 #cajaVerde {
-
-    background-color: green;
-
-    float: left;
-
+background-color: green;
+float: left;
 }
-
-
 
 #cajaRoja {
-
-    background-color: red;
-
-    float: right;
-
+background-color: red;
+float: right;
 }
 </style>
-
 </head>
-
 <body>
-
-    <h1>Las famosas cajas flotantes</h1>
-
-	
-
-	
-
-    <div id="cajaNegra"> Caja NEGRA <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg"width="150" > </div>	  
-
-    <div id="cajaAzul"> Caja AZUL <img src="https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> </div>
-
-    <div id="cajaVerde"> Caja VERDE <img src="https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg" width="200"></div>
-
-    <div id="cajaRoja"> Caja ROJA <img src="https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> </div>
-
+<h1>Las famosas cajas flotantes</h1>
+<div id="cajaNegra"> <img src= "https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg"width="150" >Caja NEGRA </div>	  
+<div id="cajaAzul"> <img src="https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> Caja AZUL </div>
+<div id="cajaVerde"> <img src="https://viverodelchaja.com.uy/wp-content/uploads/2023/05/JACARANDA1-1.jpg" width="200"> Caja VERDE</div>
+<div id="cajaRoja"> <img src="https://commons.wikimedia.org/wiki/File:Jacaranda1212.jpg" width="200"> Caja ROJA </div>
 </body>
 </html>

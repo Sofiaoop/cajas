@@ -33,9 +33,9 @@ background-color: red;
 float: right;
 }
 img{
-width:150;
-border-radius: 40px;
-height: 200px;
+width:200;
+    height: 200px;
+border-radius: 10px;
 }
 </style>
 </head>

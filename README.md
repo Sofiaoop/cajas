@@ -34,7 +34,7 @@ float: right;
 }
 img{
 width:100;
-    height: 100px;
+height: 100px;
 border-radius: 10px;
 }
 </style>
